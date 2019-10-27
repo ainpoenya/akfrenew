@@ -1,0 +1,16 @@
+/* Put your custom styles here */
+.copyright-bar.bg-black {
+    background: #red;
+}
+
+.bg-black {
+    background-color: #1e2088 !important;
+}
+
+.main-nav {
+    background-color: #d1d3d4 !important;
+}
+
+img {
+    margin: auto;
+}
